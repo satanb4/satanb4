@@ -1,6 +1,6 @@
 ## Some Basics 
 - 👋 Hi, I’m @satanb4
-- 👀 I’m interested in Cloud Technologies and Automation
+- 👀 I’m interested in Cloud Technologies, Automation and Machine Learning
 - 😎 I'm experienced in Python, C++, Docker and HTML/CSS/JS
 - 🌱 I’m currently learning Rust and Godot Game Engine
 - 💞️ I’m looking to collaborate on Rust Systems Projects
