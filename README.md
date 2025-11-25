@@ -9,7 +9,6 @@
 ### 🖱 [Satanb4.io](https://satanb4.github.io/)
 
 ## My Stats 
-[![Sayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=satanb4)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://satanb4.github.io/">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=satanb4&show_icons=true&theme=synthwave&count_private=true" />
